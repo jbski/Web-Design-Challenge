@@ -8,6 +8,11 @@ h2 {
     font-family: 'Arial' 'Times New Roman', 'Times';
 }
 
+h3 { 
+    color:#009999;  
+    font-family: 'Arial' 'Times New Roman', 'Times';
+}
+
 .thumbnail {
     width:50%;
 }
@@ -32,6 +37,19 @@ h2 {
     margin-left: auto;
   }
 
- 
+  th {
+      text-align:center;
+  }
 
+  td {
+      text-align:center;
+  }
+
+  /* th {
+      background:white;
+      position: sticky;
+      top: 0;
+  } */
+
+  
   
